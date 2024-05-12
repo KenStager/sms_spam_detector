@@ -121,7 +121,7 @@
 
 ### Summary of Review
 
-Overall, your code aligns well with the grading criteria from the `Module 21 Challenge.pdf`:
+Overall, the code aligns well with the grading criteria from the `Module 21 Challenge.pdf`:
 
 - **SMS Classification Function:** Full compliance with requirements (50 points).
 - **SMS Prediction Function:** Full compliance with requirements (30 points).
